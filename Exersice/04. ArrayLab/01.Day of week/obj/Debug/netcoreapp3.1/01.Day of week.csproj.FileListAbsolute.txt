@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.exe
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.deps.json
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.runtimeconfig.json
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.dll
+C:\Users\User\source\repos\ArrayLab\ArrayLab\bin\Debug\netcoreapp3.1\01.Day of week.pdb
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.AssemblyInfo.cs
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.dll
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.pdb
+C:\Users\User\source\repos\ArrayLab\ArrayLab\obj\Debug\netcoreapp3.1\01.Day of week.genruntimeconfig.cache

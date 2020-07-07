@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.exe
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.deps.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\bin\Debug\netcoreapp3.1\5. Word Filter.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.dll
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.pdb
+C:\Users\User\source\repos\Dictionaries, Lambda and LINQ\5. Word Filter\obj\Debug\netcoreapp3.1\5. Word Filter.genruntimeconfig.cache

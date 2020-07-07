@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.exe
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.deps.json
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.json
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\bin\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.dll
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.pdb
+C:\Users\User\source\repos\Exercise Associative Arrays\6. Courses\obj\Debug\netcoreapp3.1\6. Courses.genruntimeconfig.cache

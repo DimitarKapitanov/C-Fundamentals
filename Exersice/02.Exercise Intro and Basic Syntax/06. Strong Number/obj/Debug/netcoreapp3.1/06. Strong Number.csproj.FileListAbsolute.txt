@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.exe
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.deps.json
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.json
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.dll
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\bin\Debug\netcoreapp3.1\06. Strong Number.pdb
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.dll
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.pdb
+C:\Users\User\source\repos\Exercise Intro and Basic Syntax\06. Strong Number\obj\Debug\netcoreapp3.1\06. Strong Number.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "7_ NxN Matrix/1.0.0": {
+        "runtime": {
+          "7_ NxN Matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7_ NxN Matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
