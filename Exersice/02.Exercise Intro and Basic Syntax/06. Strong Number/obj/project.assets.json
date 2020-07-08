@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\06. Strong Number\\06. Strong Number.csproj",
+      "projectUniqueName": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\06. Strong Number\\06. Strong Number.csproj",
       "projectName": "06. Strong Number",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\06. Strong Number\\06. Strong Number.csproj",
+      "projectPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\06. Strong Number\\06. Strong Number.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\06. Strong Number\\obj\\",
+      "outputPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\06. Strong Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
       }
     }
   }

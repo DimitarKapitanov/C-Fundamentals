@@ -11,3 +11,16 @@ C:\Users\User\source\repos\Exercise Intro and Basic Syntax\05. Login\obj\Debug\n
 C:\Users\User\source\repos\Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
 C:\Users\User\source\repos\Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
 C:\Users\User\source\repos\Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+D:\My Docs\GitHub\CSharpFundamentals\Exersice\02.Exercise Intro and Basic Syntax\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

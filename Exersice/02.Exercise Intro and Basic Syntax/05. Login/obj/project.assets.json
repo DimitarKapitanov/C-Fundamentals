@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\05. Login\\05. Login.csproj",
+      "projectUniqueName": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\05. Login\\05. Login.csproj",
       "projectName": "05. Login",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\05. Login\\05. Login.csproj",
+      "projectPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\05. Login\\05. Login.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\05. Login\\obj\\",
+      "outputPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\05. Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
       }
     }
   }

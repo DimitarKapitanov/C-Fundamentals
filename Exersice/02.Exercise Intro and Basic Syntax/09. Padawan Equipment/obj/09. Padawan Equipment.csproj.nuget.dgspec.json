@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {}
+    "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {
+    "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
+        "projectUniqueName": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
         "projectName": "09. Padawan Equipment",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
+        "projectPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\09. Padawan Equipment\\09. Padawan Equipment.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\09. Padawan Equipment\\obj\\",
+        "outputPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\09. Padawan Equipment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
         }
       }
     }

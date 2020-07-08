@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj": {}
+    "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj": {
+    "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj",
+        "projectUniqueName": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj",
         "projectName": "07. Vending Machine",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj",
+        "projectPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\07. Vending Machine\\07. Vending Machine.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Exercise Intro and Basic Syntax\\07. Vending Machine\\obj\\",
+        "outputPath": "D:\\My Docs\\GitHub\\CSharpFundamentals\\Exersice\\02.Exercise Intro and Basic Syntax\\07. Vending Machine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015178\\RuntimeIdentifierGraph.json"
         }
       }
     }
