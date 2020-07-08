@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Dictionary", "Problem 1. Dictionary\Problem 1. Dictionary.csproj", "{47B3F08E-9AF4-4902-9384-466189F6D2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Deciphering", "Problem 2. Deciphering\Problem 2. Deciphering.csproj", "{19F56D5F-3462-45D7-96B7-12B299970FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B3F08E-9AF4-4902-9384-466189F6D2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B3F08E-9AF4-4902-9384-466189F6D2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B3F08E-9AF4-4902-9384-466189F6D2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B3F08E-9AF4-4902-9384-466189F6D2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F56D5F-3462-45D7-96B7-12B299970FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F56D5F-3462-45D7-96B7-12B299970FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F56D5F-3462-45D7-96B7-12B299970FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F56D5F-3462-45D7-96B7-12B299970FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C6BEE5-8BFC-499C-BAD8-EB3A8F02BD3A}
+	EndGlobalSection
+EndGlobal
